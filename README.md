@@ -1,5 +1,8 @@
 # 🛒 "Reducing Delivery delays and improving customer satisfaction in E-Commerce Operations".
 
+## Dataset Used: "Olist Brazilian E-Commerce Public Dataset
+## Dataset Link : https://www.kaggle.com/code/anshumoudgil/olist-ecommerce-analytics-quasi-poisson-poly-regs/input
+
 ## 📌 Project Overview
 
 This project is an end-to-end Data Analytics solution developed using **SQL, Python, and Power BI** on the **Olist Brazilian E-Commerce Dataset**.
@@ -132,6 +135,13 @@ OLIST E-commerce Project/
 
 ├── raw_data/
 ├── outputs/
+    └── dashboard_overview.png
+    └── dashboard_revenue.png
+    └── monthly_revenue_trend.png
+    └── installment_based_transactions.png
+    └── product_category_revenue.png
+    └── order_delivery.png
+    └── late_delivery.png
 ├── notebooks/
 │   └── olist_ecommerce_analysis.ipynb
 │
